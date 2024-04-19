@@ -1,0 +1,6 @@
+webdataset
+pytesseract
+pillow
+openai
+transformers
+requests
